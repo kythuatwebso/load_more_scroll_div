@@ -1,0 +1,22 @@
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: bug (lỗi)
+    color: fc2929
+  - name: enhancement (yêu cầu mới)
+    color: 84b6eb
+  - name: duplicate (trùng lặp)
+    color: cccccc
+  - name: question (câu hỏi)
+    color: cc317c
+  - name: future (phát triển)
+    color: 128A0C
+  - name: idea (ý tưởng)
+    color: b3f542
+  - name: invalid (sai ý)
+    color: e6e6e6
+  - name: wontfix (không sửa)
+    color: ffffff
+  - name: needs more info (chưa hiểu)
+    color: 1ab3b3
+  - name: processing (đang sửa)
+    color: ffdf59
